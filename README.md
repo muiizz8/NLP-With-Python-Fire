@@ -1,0 +1,1 @@
+[![Python application test with GitHub Actions](https://github.com/muiizz8/NLP-With-Python-Fire/actions/workflows/main.yml/badge.svg)](https://github.com/muiizz8/NLP-With-Python-Fire/actions/workflows/main.yml)
