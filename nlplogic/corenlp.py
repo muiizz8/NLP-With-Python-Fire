@@ -25,9 +25,9 @@ def summarize_wiki(name):
     except wikipedia.exceptions.PageError:
         print(f"No Wikipedia page found for exact title: '{name}'")
         return None
-    except Exception as e:
-        print(f"Unexpected error: {e}")
-        return None
+    # except Exception as e:
+    #     print(f"Unexpected error: {e}")
+    #     return None
 
 
 def get_text_blob(text):
