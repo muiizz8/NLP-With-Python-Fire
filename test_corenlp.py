@@ -1,4 +1,4 @@
-from nlplogic.corenlp import summarize_wiki, get_phrases, get_text_blob
+from nlplogic.corenlp import get_phrases
 import pytest
 
 
