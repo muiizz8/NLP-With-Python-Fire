@@ -1,5 +1,4 @@
 from nlplogic.corenlp import get_phrases
-import pytest
 
 
 def test_getphrases():
